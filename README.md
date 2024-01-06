@@ -12,3 +12,5 @@
   - TypeCasting
   - How -ve numbers are stored ?
   - Operators
+# Week 02:
+  - Patterns
